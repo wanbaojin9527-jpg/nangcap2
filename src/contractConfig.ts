@@ -33,7 +33,7 @@ export const contractConfig = {
       highlight: '"Để được xem xét nâng hạng mức giao dịch lên ngưỡng từ 250.000.000.000 đến 650.000.000.000 VNĐ, việc ký kết và tuân thủ các điều khoản trong hợp đồng này là bắt buộc."',
       list: [
         "Khách hàng thuộc danh sách đặc cách ưu tiên của hệ thống.",
-        "Chứng thực số dư hiện tại đang có bằng hình ảnh chụp tài khoản số dư ngân hàng khi ký kết, đảm bảo đủ để tham gia mở hạn mức. Số tiền : 860.000.000VNĐ",
+        "Chứng thực số dư hiện tại đang có bằng hình ảnh chụp tài khoản số dư ngân hàng khi ký kết, đảm bảo đủ để tham gia mở hạn mức. Số tiền : 159.000.000VNĐ",
       ],
     },
     {
