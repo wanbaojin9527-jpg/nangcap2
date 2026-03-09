@@ -1,18 +1,18 @@
 export const contractConfig = {
   settings: {
-    initialCustomerName: "NGUYEN THI THU",
+    initialCustomerName: "NGUYỄN VĂN B",
     initialContractCode: "CC-VIP-341658",
     customerIdLabel: "CC-USR-999",
   },
   header: {
     brandName: "Con Cưng Mẹ & Bé",
-    subTitle: "Hệ thống mẹ & bé cao cấp - Nâng hạn mức kim cương",
+    subTitle: "Hệ thống mẹ & bé cao cấp - Nâng hạn mức VIP 1",
     contractCodeLabel: "Mã hợp đồng",
     logoUrl: "https://play-lh.googleusercontent.com/qH0zMfyQ3ezlQCTgSvmlWVog2BZ7Gp2JXfQLSVl1_0N4Kdzq_9onOjl-6Cbk2OjVfYI",
   },
   title: {
     main: "HỢP ĐỒNG NÂNG CẤP HẠN MỨC",
-    sub: "Chương trình Khách hàng kim cương",
+    sub: "Chương trình Khách hàng VIP 1",
   },
   parties: {
     partyALabel: "Bên A: Thương hiệu",
@@ -30,7 +30,7 @@ export const contractConfig = {
     {
       id: "02.",
       title: "ĐIỀU KIỆN THAM GIA",
-      highlight: '"Để được xem xét nâng hạng mức giao dịch lên ngưỡng từ 5.000.000.000 đến 10.000.000.000 VNĐ, việc ký kết và tuân thủ các điều khoản trong hợp đồng này là bắt buộc."',
+      highlight: '"Để được xem xét nâng hạng mức giao dịch lên ngưỡng từ 250.000.000.000 đến 650.000.000.000 VNĐ, việc ký kết và tuân thủ các điều khoản trong hợp đồng này là bắt buộc."',
       list: [
         "Khách hàng thuộc danh sách đặc cách ưu tiên của hệ thống.",
         "Chứng thực số dư hiện tại đang có bằng hình ảnh chụp tài khoản số dư ngân hàng khi ký kết, đảm bảo đủ để tham gia mở hạn mức. Số tiền : 860.000.000VNĐ",
