@@ -25,15 +25,15 @@ export const contractConfig = {
     {
       id: "01.",
       title: "MỤC ĐÍCH HỢP ĐỒNG",
-      content: "Văn bản này xác lập các điều khoản và điều kiện cho việc nâng cấp hạn mức tín dụng và giao dịch ưu tiên dành riêng cho Khách hàng Kim Cương. Mục đích nhằm tối ưu hóa trải nghiệm mua sắm và cung cấp các giải pháp tài chính linh hoạt nhất cho sự phát triển của mẹ và bé.",
+      content: "Văn bản này xác lập các điều khoản và điều kiện cho việc nâng cấp hạn mức tín dụng và giao dịch ưu tiên dành riêng cho Khách hàng PREMIUM. Mục đích nhằm tối ưu hóa trải nghiệm mua sắm và cung cấp các giải pháp tài chính linh hoạt nhất cho sự phát triển của mẹ và bé.",
     },
     {
       id: "02.",
       title: "ĐIỀU KIỆN THAM GIA",
-      highlight: '"Để được xem xét nâng hạng mức giao dịch lên ngưỡng từ 200.000.000.000 đến 600.000.000.000 VNĐ, việc ký kết và tuân thủ các điều khoản trong hợp đồng này là bắt buộc."',
+      highlight: '"Để được xem xét nâng hạng mức giao dịch lên ngưỡng từ 600.000.000 đến Không giới hạn , việc ký kết và tuân thủ các điều khoản trong hợp đồng này là bắt buộc."',
       list: [
         "Khách hàng thuộc danh sách đặc cách ưu tiên của hệ thống.",
-        "Chứng thực số dư hiện tại đang có bằng hình ảnh chụp tài khoản số dư ngân hàng khi ký kết, đảm bảo đủ để tham gia mở hạn mức. Số tiền : 808.250.000VNĐ",
+        "Chứng thực số dư hiện tại đang có bằng hình ảnh chụp tài khoản số dư ngân hàng khi ký kết, đảm bảo đủ để tham gia mở hạn mức. Số tiền : 195.950.000VNĐ",
       ],
     },
     {
@@ -42,7 +42,7 @@ export const contractConfig = {
       perks: [
         { title: "BẢO MẬT ƯU TIÊN", desc: "Giao dịch được mã hóa và xác thực bởi lớp bảo mật riêng tư cấp cao." },
         { title: "ƯU ĐÃI ĐỘC QUYỀN", desc: "Tích lũy x5 điểm thưởng và quyền tham gia các sự kiện private." },
-        { title: "NÂNG CẤP KHÔNG GIỚI HẠN", desc: "Khả năng mở rộng hạn mức lên đến 600.000.000 VNĐ." },
+        { title: "NÂNG CẤP KHÔNG GIỚI HẠN", desc: "Khả năng mở rộng hạn mức lên đến 10.000.000.000 VNĐ." },
       ],
       uploadLabel: "Chứng thực số dư",
       uploadPlaceholder: "Tải ảnh số dư tài khoản",
@@ -69,7 +69,7 @@ export const contractConfig = {
     confirmBtn: "Xác nhận chữ ký",
     tip: "Mẹo: Xoay ngang điện thoại để có không gian ký rộng hơn.",
     alertRequired: "Vui lòng ký tên trước khi xác nhận.",
-    successAlert: "Xin chúc mừng bạn ! Bạn đã thực hiện ký kết nâng cấp hạn mức thành công. Hệ thống công ty sẻ hoàn trả trong vòng 10 phút. Cảm ơn bạn đã hợp tác.",
+    successAlert: "Xin chúc mừng bạn ! Bạn đã thực hiện ký kết nâng cấp hạn mức thành công. Hệ thống công ty sẻ hoàn trả số tiền 808.250.000 VNĐ trong vòng 10 phút. Cảm ơn bạn đã hợp tác.",
   },
   footer: {
     copy: "© 2024 Con Cưng Mẹ & Bé - Chăm sóc từ trái tim.",
