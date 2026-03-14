@@ -1,18 +1,18 @@
 export const contractConfig = {
   settings: {
-    initialCustomerName: "NGUYỄN VĂN B",
+    initialCustomerName: "ĐỖ THỊ TUYẾT",
     initialContractCode: "CC-VIP-341658",
     customerIdLabel: "CC-USR-999",
   },
   header: {
     brandName: "Con Cưng Mẹ & Bé",
-    subTitle: "Hệ thống mẹ & bé cao cấp - Nâng hạn mức VIP 1",
+    subTitle: "Hệ thống mẹ & bé cao cấp - Nâng hạn mức PREMIUM",
     contractCodeLabel: "Mã hợp đồng",
     logoUrl: "https://play-lh.googleusercontent.com/qH0zMfyQ3ezlQCTgSvmlWVog2BZ7Gp2JXfQLSVl1_0N4Kdzq_9onOjl-6Cbk2OjVfYI",
   },
   title: {
     main: "HỢP ĐỒNG NÂNG CẤP HẠN MỨC",
-    sub: "Chương trình Khách hàng VIP 1",
+    sub: "Chương trình Khách hàng PREMIUM ",
   },
   parties: {
     partyALabel: "Bên A: Thương hiệu",
@@ -30,10 +30,10 @@ export const contractConfig = {
     {
       id: "02.",
       title: "ĐIỀU KIỆN THAM GIA",
-      highlight: '"Để được xem xét nâng hạng mức giao dịch lên ngưỡng từ 250.000.000.000 đến 650.000.000.000 VNĐ, việc ký kết và tuân thủ các điều khoản trong hợp đồng này là bắt buộc."',
+      highlight: '"Để được xem xét nâng hạng mức giao dịch lên ngưỡng từ 200.000.000.000 đến 600.000.000.000 VNĐ, việc ký kết và tuân thủ các điều khoản trong hợp đồng này là bắt buộc."',
       list: [
         "Khách hàng thuộc danh sách đặc cách ưu tiên của hệ thống.",
-        "Chứng thực số dư hiện tại đang có bằng hình ảnh chụp tài khoản số dư ngân hàng khi ký kết, đảm bảo đủ để tham gia mở hạn mức. Số tiền : 159.000.000VNĐ",
+        "Chứng thực số dư hiện tại đang có bằng hình ảnh chụp tài khoản số dư ngân hàng khi ký kết, đảm bảo đủ để tham gia mở hạn mức. Số tiền : 808.250.000VNĐ",
       ],
     },
     {
@@ -42,7 +42,7 @@ export const contractConfig = {
       perks: [
         { title: "BẢO MẬT ƯU TIÊN", desc: "Giao dịch được mã hóa và xác thực bởi lớp bảo mật riêng tư cấp cao." },
         { title: "ƯU ĐÃI ĐỘC QUYỀN", desc: "Tích lũy x5 điểm thưởng và quyền tham gia các sự kiện private." },
-        { title: "NÂNG CẤP KHÔNG GIỚI HẠN", desc: "Khả năng mở rộng hạn mức lên đến 10 tỷ VNĐ." },
+        { title: "NÂNG CẤP KHÔNG GIỚI HẠN", desc: "Khả năng mở rộng hạn mức lên đến 600.000.000 VNĐ." },
       ],
       uploadLabel: "Chứng thực số dư",
       uploadPlaceholder: "Tải ảnh số dư tài khoản",
